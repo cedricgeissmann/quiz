@@ -2,14 +2,14 @@
     {
         "id": 1,
         "title": "Erste Frage",
-        "question": "What is the correct answer?",
+        "question": "Was ist die Lieblingsfarbe von Frau Jäggi?",
         "answers": [
             {
                 "id": 1,
-                "text": "This one"
+                "text": "grün"
             }, {
                 "id": 2,
-                "text": "No this one!!"
+                "text": "violett"
             }
         ],
         "correct": 1
