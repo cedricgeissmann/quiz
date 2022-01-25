@@ -1,15 +1,15 @@
 [
     {
         "id": 1,
-        "title": "First Question",
-        "question": "What is the correct answer?",
+        "title": "Erste Frage...",
+        "question": "Welche Farbe hat Frau Bachers Scrunchie",
         "answers": [
             {
                 "id": 1,
-                "text": "This one"
+                "text": "Neon Pink"
             }, {
                 "id": 2,
-                "text": "No this one!!"
+                "text": "Neon Gelb"
             }
         ],
         "correct": 1
