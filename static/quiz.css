@@ -5,7 +5,7 @@ body {
 .navbar {
     position: fixed;
     width: 180px;
-    background: forestgreen;
+    background: rgb(34, 97, 139);
     height: 100%;
     margin: 0px;
 }
