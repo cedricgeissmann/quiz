@@ -4,7 +4,7 @@ body {
 }
 .navbar {
     position: fixed;
-    width: 180px;
+    width: 80px;
     background: turquoise
     height: 100%;
     margin: 0px;
