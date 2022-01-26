@@ -39,6 +39,10 @@ def answer(question_id, answer_id):
 def bio():
     return render_template("Bio.html")
 
+@app.route("/naïma")
+def naïma():
+    return render_template("Naïma.html")
+
 
 if __name__ == "__main__":
     app.run()
