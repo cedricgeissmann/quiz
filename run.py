@@ -35,8 +35,8 @@ def answer(question_id, answer_id):
     correct = check_answer(question_id, answer_id)
     return render_template("answer.html", correct=correct)
 
-@app.route("/")
-def Bio():
+@app.route("/bio")
+def bio():
     return render_template("Bio.html")
 
 
