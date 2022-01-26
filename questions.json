@@ -104,5 +104,27 @@
 
         ],
         "correct": 3
-    }
+    } ,  {
+        "id": 6,
+        "title": "Fragelevel unmöglich",
+        "question": "Eine kleine Spinne möchte ein Netz in einer rechteckigen Masche eines Gitterzauns bauen. Um ihr Netz zu befestigen zieht sie zunächst zwei stramm gespannte Fäden durch die Masche. Der eine geht von der linken Seite zur rechten unteren Ecke und hat eine Länge von 105 mm. Der andere Faden geht von der rechten Seite zur linken unteren Ecke und hat eine Länge von 87 mm. Sie stellt mit Hilfe ihres kleinen Spinnenlineals fest, dass sich die beiden Fäden 35 mm über der Unterkante ihrer Masche kreuzen.",
+        "answers": [
+            {
+                "id": 1,
+                "text": "Unmöglich"
+            }, {
+                "id": 2,
+                "text": "62mm"
+            }, {
+                "id": 3,
+                "text": "150mm"
+            }, {
+                "id": 4,
+                "text": "63mm"
+            }
+
+        ],
+        "correct": 4
+    } 
+
 ]
