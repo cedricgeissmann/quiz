@@ -39,10 +39,17 @@ def answer(question_id, answer_id):
 def bio():
     return render_template("Bio.html")
 
-@app.route("/aha")
-def aha():
-    return render_template("Aha.html")
+@app.route("/naïma")
+def naïma():
+    return render_template("Naïma.html")
 
+@app.route("/irem")
+def irem():
+    return render_template("Irem.html")
+
+@app.route("/lara")
+def lara():
+    return render_template("Lara.html")
 if __name__ == "__main__":
     app.run()
 
