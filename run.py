@@ -39,6 +39,9 @@ def answer(question_id, answer_id):
 def bio():
     return render_template("bio.html")
 
+@app.route("/bilder")
+def bilder():
+    return render_template("bilder.html")
 
 if __name__ == "__main__":
     app.run()
