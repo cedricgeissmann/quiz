@@ -40,5 +40,7 @@ def bio():
     return render_template("bio.html")
 
 
+
+
 if __name__ == "__main__":
     app.run()
