@@ -47,5 +47,8 @@ def naïma():
 def irem():
     return render_template("Irem.html")
 
+@app.route("/lara")
+def lara():
+    return render_template("Lara.html")
 if __name__ == "__main__":
     app.run()
