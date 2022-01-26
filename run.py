@@ -28,7 +28,6 @@ def home():
 @app.route("/question")
 def question():
     return render_template("question.html", question=random_question())
-if answer is 
 
 
 @app.route("/answer/<int:question_id>/<int:answer_id>")
