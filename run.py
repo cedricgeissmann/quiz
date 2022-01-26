@@ -50,6 +50,7 @@ def irem():
 @app.route("/lara")
 def lara():
     return render_template("Lara.html")
+
 if __name__ == "__main__":
     app.run()
 
