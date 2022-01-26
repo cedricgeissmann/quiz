@@ -2,14 +2,29 @@
     {
         "id": 1,
         "title": "First Question",
-        "question": "What is the correct answer?",
+        "question": "Ist es wirklich wahr, dass Russland die längste Küste von allen Staaten der Erde hat?",
         "answers": [
             {
                 "id": 1,
-                "text": "This one"
+                "text": "Wahr"
             }, {
                 "id": 2,
-                "text": "No this one!!"
+                "text": "Falsch"
+            }
+        ],
+        "correct": 1
+    }, {
+        "id": 2,
+        "title": "First Question",
+        "question": "Ist es wirklich wahr, dass Krokodile Steine als Ballast schlucken, um tief untergetaucht
+        schwimmen zu können?",
+        "answers": [
+            {
+                "id": 1,
+                "text": "Wahr"
+            }, {
+                "id": 2,
+                "text": "Falsch"
             }
         ],
         "correct": 1
