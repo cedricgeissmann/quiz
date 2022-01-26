@@ -37,7 +37,7 @@ h1 {
 .question {
     margin: 50px auto;
     width: 70%;
-    border: 4px dashed darkblue;
+    border: 4px dashed lavender;
     border-radius: 15px;
     padding: 40px 70px;
 }
@@ -69,8 +69,8 @@ h1 {
 .answer-item a {
     text-decoration: None;
     color: white;
-    border: 3px solid turquoise;
-    background: turquoise;
+    border: 3px solid lavender;
+    background: lavender;
     border-radius: 5px;
     width: 100%;
     display: flex;
@@ -81,12 +81,12 @@ h1 {
 }
 
 .answer-item a:hover {
-    background: turquoise;
+    background: lavender;
     font-size: 2rem;
 }
 
 .wrong {
-    color: turquoise;
+    color: lavender;
 }
 
 .answer-container {
