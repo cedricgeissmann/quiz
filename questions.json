@@ -1,32 +1,108 @@
 [
     {
         "id": 1,
-        "title": "First Question",
-        "question": "Ist es wirklich wahr, dass Russland die längste Küste von allen Staaten der Erde hat?",
+        "title": "Frage 1",
+        "question": "Einige Monate haben 31 Tage, andere 30. Wie viele Monate haben 28 Tage?",
         "answers": [
             {
                 "id": 1,
-                "text": "Wahr"
+                "text": "ein Monat"
             }, {
                 "id": 2,
-                "text": "Falsch"
+                "text": "Jedes vierte Jahr ein Monat"
+            }, {
+                "id": 3,
+                "text": "Alle zwölf Monate"
+            }, {
+                "id": 4,
+                "text": "Keiner"
             }
+
         ],
-        "correct": 1
-    }, {
+        "correct": 3
+    },  {
         "id": 2,
-        "title": "First Question",
-        "question": "Ist es wirklich wahr, dass Krokodile Steine als Ballast schlucken, um tief untergetaucht
-        schwimmen zu können?",
+        "title": "Frage 2",
+        "question": "Ein Metztger hat einen BMI-Wert von 30. Was wiegt er?",
         "answers": [
             {
                 "id": 1,
-                "text": "Wahr"
+                "text": "90 Kilo"
             }, {
                 "id": 2,
-                "text": "Falsch"
+                "text": "Fleisch"
+            }, {
+                "id": 3,
+                "text": "105 Kilo"
+            }, {
+                "id": 4,
+                "text": "Man weiss es nicht"
             }
+
+        ],
+        "correct": 2
+    },  {
+        "id": 3,
+        "title": "Frage 3",
+        "question": "Du hast eine Schachtel mit Streichhölzern und kommst in einen kalten Raum. Dort findest du eine Petroleumlampe, etwas Holz und einen Kamin. Was zündest du als erstes an?",
+        "answers": [
+            {
+                "id": 1,
+                "text": "Petroleumlampe"
+            }, {
+                "id": 2,
+                "text": "Holz"
+            }, {
+                "id": 3,
+                "text": "Kamin"
+            }, {
+                "id": 4,
+                "text": "Streichholz"
+            }
+
+        ],
+        "correct": 4
+    },  {
+        "id": 4,
+        "title": "Frage 4",
+        "question": "Wie oft kann man 1 von 20 abziehen?",
+        "answers": [
+            {
+                "id": 1,
+                "text": "1 Mal"
+            }, {
+                "id": 2,
+                "text": "19 Mal"
+            }, {
+                "id": 3,
+                "text": "20 Mal"
+            }, {
+                "id": 4,
+                "text": "Kein Mal"
+            }
+
         ],
         "correct": 1
-    }
+    },  {
+        "id": 5,
+        "title": "Frage 5",
+        "question": "Was ist schwerer (Vakuum): ein Kilo Gold oder ein Kilo Federn?",
+        "answers": [
+            {
+                "id": 1,
+                "text": "ein Kilo Gold"
+            }, {
+                "id": 2,
+                "text": "ein Kilo Federn"
+            }, {
+                "id": 3,
+                "text": "Beides ist gleich schwer"
+            }, {
+                "id": 4,
+                "text": "Man weiss es nicht"
+            }
+
+        ],
+        "correct": 3
+    }, 
 ]

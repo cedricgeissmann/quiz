@@ -44,10 +44,15 @@ h1 {
 
 .question h3 {
     font-size: 3rem;
+    text-align: center;
+    text-decoration: underline;
+
 }
 
 .question p {
-    margin: 30px 50px;
+    margin: 70px 50px;
+    font-size: xx-large;
+    text-align: center;
 }
 
 .answer-list {
@@ -99,4 +104,9 @@ h1 {
 
 #answer-text {
     font-size: 4rem;
+}
+
+#title_main {
+    font-size: 3em;
+    justify-content:center;
 }
