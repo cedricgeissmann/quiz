@@ -6,10 +6,10 @@
         "answers": [
             {
                 "id": 1,
-                "text": "This one"
+                "text": "Weil er auf 180 ist"
             }, {
                 "id": 2,
-                "text": "No this one!!"
+                "text": "Haarschnitt!"
             }
         ],
         "correct": 2
