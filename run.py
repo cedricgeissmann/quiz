@@ -29,14 +29,15 @@ def home():
 def question():
     return render_template("question.html", question=random_question())
 
-
-
 @app.route("/answer/<int:question_id>/<int:answer_id>")
 def answer(question_id, answer_id):
     correct = check_answer(question_id, answer_id)
     return render_template("answer.html", correct=correct)
 
 @app.route("/bio")
+def Bio():
+    return render_template("Bio.html")
+
 
 
 

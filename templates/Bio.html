@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block content %}
+    <div class="Bio">
+        <li class="Pictures">
+            <img class=Bild src="{{ url_for("static", filename="img/Nils.jpg") }}" alt="Nils" width="100px" height="150">
+            <br>
+            <img class=Bild src="{{ url_for("static", filename="img/Andrin.jpg") }}" alt="Andrin" width="100px" height="150">
+            </br> 
+
+            <br>
+            <img class=Bild src="{{ url_for("static", filename="img/Julian.jpg") }}" alt="Julian" width="100px" height="150">
+        </br>
+        </li>
+    </div>
+{% endblock %}

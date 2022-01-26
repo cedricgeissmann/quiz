@@ -106,7 +106,7 @@ h1 {
     font-size: 4rem;
 }
 
-#title_main {
-    font-size: 3em;
-    justify-content:center;
+
+#Bild {
+    border-image: round;
 }
