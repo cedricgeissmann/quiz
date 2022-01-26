@@ -2,7 +2,7 @@
     {
         "id": 1,
         "title": "First Question",
-        "question": "What is the correct answer?",
+        "question": "Warum ist mias so toxic",
         "answers": [
             {
                 "id": 1,
@@ -12,6 +12,6 @@
                 "text": "No this one!!"
             }
         ],
-        "correct": 1
+        "correct": 2
     }
 ]
