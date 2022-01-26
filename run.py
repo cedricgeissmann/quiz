@@ -39,6 +39,11 @@ def answer(question_id, answer_id):
 def bio():
     return render_template("Bio.html")
 
+@app.route("/aha")
+def aha():
+    return render_template("Aha.html")
 
 if __name__ == "__main__":
     app.run()
+
+
