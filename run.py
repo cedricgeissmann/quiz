@@ -36,7 +36,7 @@ def answer(question_id, answer_id):
     return render_template("answer.html", correct=correct)
 
 @app.route("/bio")
-def question():
+def bio():
     return render_template("bio.html")
 
 
