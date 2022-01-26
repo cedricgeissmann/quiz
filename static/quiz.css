@@ -5,7 +5,7 @@ body {
 .navbar {
     position: fixed;
     width: 180px;
-    background: lavender
+    background: darkblue
     height: 100%;
     margin: 0px;
 }
@@ -24,7 +24,7 @@ body {
 }
 h1 {
     width: 100%;
-    background: lavender;
+    background: darkblue;
     color: white;
     margin: 0px;
     padding: 15px 20px;
@@ -37,7 +37,7 @@ h1 {
 .question {
     margin: 50px auto;
     width: 70%;
-    border: 4px dashed lavender;
+    border: 4px darkblue;
     border-radius: 15px;
     padding: 40px 70px;
 }
@@ -69,8 +69,8 @@ h1 {
 .answer-item a {
     text-decoration: None;
     color: white;
-    border: 3px solid lavender;
-    background: lavender;
+    border: 3px solid rgb(40, 40, 88);
+    background: rgb(70, 90, 179);
     border-radius: 5px;
     width: 100%;
     display: flex;
