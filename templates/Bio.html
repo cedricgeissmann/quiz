@@ -2,11 +2,14 @@
 {% block content %}
     <div class="Bio">
         <li class="Pictures">
-            <img src="https://drive.google.com/file/d/1uD5Ek0TAwgJ_RlNOpTWgsMMyxjpXSEzL/view?usp=sharing" alt="Nils">
-            <img src="https://drive.google.com/file/d/1v8kjqPDHg0Yc2TgbEXmEaN_lXGint-o4/view?usp=sharing" alt="Andrin">
-            <img src="https://drive.google.com/file/d/1sV6cTxq5s3INWXuqTHa6sAYvEm4P4aZG/view?usp=sharing" alt="Julian">
+            <img class=Bild src="{{ url_for("static", filename="img/Nils.jpg") }}" alt="Nils" width="100px" height="150">
+            <br>
+            <img class=Bild src="{{ url_for("static", filename="img/Andrin.jpg") }}" alt="Andrin" width="100px" height="150">
+            </br> 
+
+            <br>
+            <img class=Bild src="{{ url_for("static", filename="img/Julian.jpg") }}" alt="Julian" width="100px" height="150">
+        </br>
         </li>
-       
-         
     </div>
 {% endblock %}
