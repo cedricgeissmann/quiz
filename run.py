@@ -43,6 +43,9 @@ def bio():
 def naïma():
     return render_template("Naïma.html")
 
+@app.route("/irem")
+def irem():
+    return render_template("Irem.html")
 
 if __name__ == "__main__":
     app.run()
