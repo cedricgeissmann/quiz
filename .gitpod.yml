@@ -1,4 +1,3 @@
-
 tasks:
   - init: |
       pip install -r requirements.txt
@@ -6,3 +5,4 @@ vscode:
   extensions:
     - mhutchie.git-graph
     - ms-python.python
+    - ms-toolsai.jupyter
