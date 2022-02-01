@@ -5,7 +5,7 @@ body {
 .navbar {
     position: fixed;
     width: 100px;
-    background: rgb(62, 3, 173);
+    background: rgb(89, 0, 255);
     height: 100%;
     margin: 0px;
 }
@@ -24,8 +24,8 @@ body {
 }
 h1 {
     width: 100%;
-    background: rgb(165, 255, 232);
-    color: white;
+    background: rgb(89, 0, 255);
+    color: rgb(162, 0, 255);
     margin: 0px;
     padding: 15px 20px;
 }
