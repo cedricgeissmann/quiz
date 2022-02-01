@@ -22,18 +22,18 @@
         "question": "welche Farbe kann ein Deutscher Pinscher haben?",
         "answers": [
             {
-                "id": 2,
+                "id": 1,
                 "text": "schwarz und fuchs braun"
             }, {
                 "id": 2,
                 "text": "fuchs braun"
             }
             {
-                "id": 2,
+                "id": 3,
                 "text": "nur schwarz"
             }
         ],
-        "correct": 2
+        "correct": 1
     }
 ]
 
@@ -44,15 +44,37 @@
         "question": "wie gross ist etwa ein Dalmatiner?",
         "answers": [
             {
-                "id": 3,
+                "id": 1,
                 "text": "72cm"
             }, {
-                "id": 3,
+                "id": 2,
                 "text": "58cm"
             }
         ],
-        "correct": 3
+        "correct": 2
     }
 ]
+
+[
+    {
+        "id": 4,
+        "title": "vierte Frage",
+        "question": "wo misst man die Grösse eines Pferdes?",
+        "answers": [
+            {
+                "id": 4,
+                "text": "beim Rücken"
+            }, {
+                "id": 4,
+                "text": "beim Wiederrist"
+            }
+        ],
+        "correct": 4
+    }
+]
+
+
+
+
 
 
