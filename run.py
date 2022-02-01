@@ -46,6 +46,20 @@ def bio():
 def bilder():
     return render_template("bilder.html")
 
+@app.route("/selina")
+def selina():
+    return render_template("selina.html")
+
+@app.route("/leonie")
+def leonie():
+    return render_template("leonie.html")
+
+@app.route("/sara")
+def sara():
+    return render_template("sara.html")
+
+
+
 
 
 if __name__ == "__main__":
