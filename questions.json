@@ -2,14 +2,14 @@
     {
         "id": 1,
         "title": "First Question",
-        "question": "What is the correct answer?",
+        "question": "Was gibt 2 mal 2?",
         "answers": [
             {
                 "id": 1,
-                "text": "This one"
+                "text": "4"
             }, {
                 "id": 2,
-                "text": "No this one!!"
+                "text": "6"
             }
         ],
         "correct": 1
