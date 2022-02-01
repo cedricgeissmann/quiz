@@ -119,3 +119,23 @@ h1 {
 display: inline-block; 
 width: 70% ;
 }
+.body {
+    position: fixed; 
+}
+h2{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(96, 16, 143);
+    align-items: center;
+}
+
+.dog{
+     animation: rotation 8s infinite linear;
+}
+@keyframes rotation{
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotate(359deg);
+    }
+}
