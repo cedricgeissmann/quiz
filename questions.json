@@ -13,9 +13,8 @@
             }
         ],
         "correct": 1
-    }
-]
-[
+    },
+
     {
         "id": 2,
         "title": "zweite Frage",
@@ -27,18 +26,14 @@
             }, {
                 "id": 2,
                 "text": "fuchs braun"
-            }
+            },
             {
                 "id": 2,
                 "text": "nur schwarz"
             }
         ],
         "correct": 2
-    }
-]
-
-[
-    {
+    },{
         "id": 3,
         "title": "dritte Frage",
         "question": "wie gross ist etwa ein Dalmatiner?",
