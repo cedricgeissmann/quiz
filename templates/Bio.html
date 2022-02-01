@@ -1,7 +1,7 @@
 {% extends "base.html" %}
 {% block content %}
     <div class="Bio">
-        <li class="Pictures">
+        <p class="Pictures">
             <img class=Bild src="{{ url_for("static", filename="img/Nils.jpg") }}" alt="Nils" width="100px" height="150">
             <br>
             <img class=Bild src="{{ url_for("static", filename="img/Andrin.jpg") }}" alt="Andrin" width="100px" height="150">
@@ -10,7 +10,7 @@
             <br>
             <img class=Bild src="{{ url_for("static", filename="img/Julian.jpg") }}" alt="Julian" width="100px" height="150">
         </br>
-        </li>
+    </p>
     </div>
     <h2> Andrin Kasper
     </h2>
@@ -20,6 +20,6 @@
     <li>Hobbys: Basketball, Klavier </li>
     <li>Traumberuf: Bauingenieur </li>
     <li>Da will ich hin: Zürich HB</li>
-    <li></li>
+
     </ul>
 {% endblock %}
