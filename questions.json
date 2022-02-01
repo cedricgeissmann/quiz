@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "title": "Erste Frage...",
+        "title": "Weisst du das auch...?",
         "question": "Welche Farbe hat Frau Bachers Scrunchie?",
         "answers": [
             {
@@ -16,17 +16,17 @@
     },
     {
         "id":1,
-        "title": "Zweite Frage...",
+        "title": " hier eine Frage...",
         "question": "In welchem Stock ist der Getränke Automat?",
         "answers": [
             {
                 "id": 1,
-                "text": "im ersten"
+                "text": "im Ersten"
             }, {
                 "id": 2,
-                "text": "im dritten"
+                "text": "im Dritten"
             }
         ],
-        "correct": 1
+        "correct": 2
     }
 ]
