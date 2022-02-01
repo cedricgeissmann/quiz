@@ -39,5 +39,9 @@ def answer(question_id, answer_id):
 def salome():
     return render_template("Salome.html")
 
+@app.route("/anja")
+def anja():
+    return render_template("Anja.html")
+
 if __name__ == "__main__":
     app.run()
