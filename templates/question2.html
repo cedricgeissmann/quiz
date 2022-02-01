@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% block content %}
+    <div class="
+        <h3>{{question.title}}</h3>
+        <p>{{question.question}}</p>
+        <ul class="answer-list">
+            {% question">for answer in question.answers %}
+                <li class="answer-item">
+                    <a href="/answer/{{question.id}}/{{answer.id}}">{{answer.text}}</a>
+                </li>
+            {% endfor %}
+        </ul>
+    </div>
+{% endblock %}
