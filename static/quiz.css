@@ -37,7 +37,7 @@ h1 {
 .question {
     margin: 50px auto;
     width: 70%;
-    border: 5px dashed rgb(4, 167, 243);
+    border: 5px dashed rgb(0, 174, 255);
     border-radius: 15px;
     padding: 40px 70px;
 }
@@ -69,7 +69,7 @@ h1 {
 .answer-item a {
     text-decoration: None;
     color: white;
-    border: 3px solid rgb(165, 255, 232);
+    border: 3px solid rgb(0, 174, 255);
     background: rgb(165, 255, 232);
     border-radius: 5px;
     width: 100%;
@@ -81,7 +81,7 @@ h1 {
 }
 
 .answer-item a:hover {
-    background: darkgreen;
+    background: rgb(0, 174, 255);
     font-size: 2rem;
 }
 
