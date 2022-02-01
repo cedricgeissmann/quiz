@@ -12,23 +12,21 @@
                 "text": "Neon Gelb"
             }
         ],
-        "correct": 1
-    }
-]
-[
+     "correct": 1
+    },
     {
-        "id":3,
+        "id":1,
         "title": "Zweite Frage...",
         "question": "In welchem Stock ist der Getränke Automat?",
         "answers": [
             {
-                "id": 3,
+                "id": 1,
                 "text": "im ersten"
             }, {
-                "id": 4,
+                "id": 2,
                 "text": "im dritten"
             }
         ],
-        "correct": 3
+        "correct": 1
     }
 ]
