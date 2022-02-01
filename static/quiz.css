@@ -114,3 +114,8 @@ h1 {
 .strong {
     color: greenyellow;
 }
+
+.Bio ul {
+display: inline-block; 
+width: 70% ;
+}
