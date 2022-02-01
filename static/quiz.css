@@ -37,7 +37,7 @@ h1 {
 .question {
     margin: 50px auto;
     width: 70%;
-    border: 5px dashed forestgreen;
+    border: 5px dashed rgb(243, 172, 29);
     border-radius: 15px;
     padding: 40px 70px;
 }
@@ -81,7 +81,7 @@ h1 {
 }
 
 .answer-item a:hover {
-    background: darkgreen;
+    background: rgb(243, 172, 29);
     font-size: 2rem;
 }
 

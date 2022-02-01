@@ -2,14 +2,14 @@
     {
         "id": 1,
         "title": "First Question",
-        "question": "What is the correct answer?",
+        "question": "Wer isch cooler?",
         "answers": [
             {
                 "id": 1,
-                "text": "This one"
+                "text": "Rita"
             }, {
                 "id": 2,
-                "text": "one!!"
+                "text": "Salzwasserpolype"
             }
         ],
         "correct": 1
