@@ -39,6 +39,9 @@ def answer(question_id, answer_id):
 def numa():
     return render_template("Numa.html")
 
+@app.route("/olivia")
+def olivia():
+    return render_template("Olivia.html")
 
 if __name__ == "__main__":
     app.run()
