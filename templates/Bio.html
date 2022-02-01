@@ -1,20 +1,13 @@
 {% extends "base.html" %}
 {% block content %}
-    <div class="Bio">
-        <p class="Pictures">
-            <img class=Bild src="{{ url_for("static", filename="img/Nils.jpg") }}" alt="Nils" width="100px" height="150">
-            <br>
-            <img class=Bild src="{{ url_for("static", filename="img/Andrin.jpg") }}" alt="Andrin" width="100px" height="150">
-            </br> 
-
-            <br>
-            <img class=Bild src="{{ url_for("static", filename="img/Julian.jpg") }}" alt="Julian" width="100px" height="150">
-        </br>
-    </p>
-    </div>
     
-    <h2> Nils Inauen
-    </h2>
+
+    <div class="Bio">
+    
+    <h2> Nils Inauen</h2>
+
+    <img class=Bild src="{{ url_for("static", filename="img/Nils.jpg") }}" alt="Nils" width="100px" height="150">
+
     <ul>
     <li>Alter: 16</li>
     <li>Ausbildung: Schüler</li>
@@ -22,9 +15,15 @@
     <li>Traumberuf: Primarlehrer </li>
     <li>Da will ich hin: Tokyo</li>
     </ul>
-    
-    <h2> Andrin Kasper
-    </h2>
+
+    </div>
+
+    <div class="Bio">
+
+<h2> Andrin Kasper </h2>
+
+    <img class=Bild src="{{ url_for("static", filename="img/Andrin.jpg") }}" alt="Andrin" width="100px" height="150">
+
     <ul>
     <li>Alter: 15</li>
     <li>Ausbildung: Schüler</li>
@@ -34,13 +33,27 @@
     </ul>
 
 
-    <h2> Julian Wenger
+    </div>
+
+    <div class="Bio">
+
+        <h2> Julian Wenger
     </h2>
+
+    <img class=Bild src="{{ url_for("static", filename="img/Julian.jpg") }}" alt="Julian" width="100px" height="150">
+
     <ul>
     <li>Alter: 16</li>
     <li>Ausbildung: Schüler</li>
     <li>Hobbys: Volleyball, Schlagzeug, Jungwacht </li>
     <li>Traumberuf: ASTRONAUT</li>
     <li>Da will ich hin: zu dir ;)</li>
-    </ul>
+    </ul> 
+
+    </div>
+    
+    
+    
+
+   
 {% endblock %}
