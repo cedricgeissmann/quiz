@@ -3,7 +3,7 @@ body {
     margin: 0px;
 }
 .navbar {
-    position: fixed;
+    position: absolute;
     width: 150px;
     background: rgb(138, 7, 94);
     height: 100%;
