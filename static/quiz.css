@@ -114,3 +114,6 @@ h1 {
 .strong {
     color: greenyellow;
 }
+.body {
+    position: fixed; 
+}
