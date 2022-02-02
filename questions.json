@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "title": "Ersti Frog:",
+        "title": "Rate mal:",
         "question": "Wie viele Sprachen gibt es weltweit?",
         "answers": [
             {
@@ -18,7 +18,7 @@
     
     ,{
         "id": 2,
-        "title": "Zweiti Frog:",
+        "title": "Rate mal:",
         "question": "Wie viele Hektare Wald gibt es auf der Welt? ",
         "answers": [
             {
@@ -34,7 +34,7 @@
     }
     ,{
         "id": 3,
-        "title": "Dritti Frog:",
+        "title": "Rate mal:",
         "question": "Wie viele Liter regnet es im Jahr auf einem Quadratmeter in der Schweiz? ",
         "answers": [
             {
@@ -43,6 +43,22 @@
             }, {
                 "id": 2,
                 "text": "500 Liter"
+            }
+        ],
+        "correct": 1
+        
+    }
+    ,{
+        "id": 4,
+        "title": "Rate mal:",
+        "question": "Wie hoch ist der höchste Berg der Welt? ",
+        "answers": [
+            {
+                "id": 1,
+                "text": "8850 Meter"
+            }, {
+                "id": 2,
+                "text": "9180 Meter"
             }
         ],
         "correct": 1
