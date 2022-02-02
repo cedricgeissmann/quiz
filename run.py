@@ -39,6 +39,23 @@ def answer(question_id, answer_id):
     correct = check_answer(question_id, answer_id)
     return render_template("answer.html", correct=correct)
 
+@app.route("/numa")
+def numa():
+    return render_template("Numa.html")
+
+@app.route("/olivia")
+def olivia():
+    return render_template("Olivia.html")
+
+@app.route("/bio")
+def bio():
+    return render_template("Bio.html")
+
+@app.route("/lilia")
+def lilia():
+    return render_template("Lilia.html")
+
+
 
 if __name__ == "__main__":
     app.run()

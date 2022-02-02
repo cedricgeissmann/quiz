@@ -94,7 +94,7 @@ p{
 }
 
 .answer-item a:hover {
-    background: darkgreen;
+    background: rgb(0, 174, 255);
     font-size: 2rem;
 }
 
