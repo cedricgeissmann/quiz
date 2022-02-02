@@ -23,10 +23,10 @@
         "answers": [
             {
                 "id": 1,
-                "text": "4 Milliarden"
+                "text": "10 Milliarden"
             }, {
                 "id": 2,
-                "text": "10 Milliarden"
+                "text": "4 Milliarden"
             }
         ],
         "correct": 1
