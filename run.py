@@ -39,5 +39,17 @@ def answer(question_id, answer_id):
 def bio():
     return render_template("unsere_Bio.html")
 
+@app.route("/andri")
+def andri():
+    return render_template("andri.html")   
+
+@app.route("/euben")
+def euben():
+    return render_template("euben.html")
+
+@app.route("/sophia")
+def sophia():
+    return render_template("sophia.html")
+
 if __name__ == "__main__":
     app.run()

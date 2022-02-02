@@ -24,14 +24,13 @@
                 "text": "Schnuggi"
             }, {
                 "id": 2,
-        "id": 2,
-        "text": "Stronziumcarbonat(Kurz Stronzium/Stronzi)"
+                "text": "Stronziumcarbonat(Kurz Stronzium/Stronzi)"
             }
         ],
         "correct": 2
     },
     {
-        "id": 2,
+        "id": 3,
         "title": "Euben Question",
         "question": "Wie lustig sind eubens witz?",
         "answers": [
@@ -40,8 +39,7 @@
                 "text": "krass gelb"
             }, {
                 "id": 2,
-        "id": 2,
-        "text": "krass rotorange"
+                "text": "krass rotorange"
             }
         ],
         "correct": 1
