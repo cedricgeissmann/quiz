@@ -69,7 +69,7 @@ h1 {
 .answer-item a {
     text-decoration: None;
     color: rgb(105, 140, 236);
-    border: 3px solid rgb(40, 40, 88);
+    border: 8px solid rgb(1, 1, 20);
     background: rgb(100, 100, 245);
     border-radius: 5px;
     width: 100%;
