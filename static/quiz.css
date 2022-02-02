@@ -33,7 +33,7 @@ h1 {
 
 h2 {
     font-size: 50px;
-    color: rgb(131, 67, 15);
+    color: rgb(124, 56, 0);
     margin-bottom: 10px;
   
 }
@@ -41,6 +41,14 @@ p{
     font-size: 30px;
     color: blueviolet;
 
+}
+h3{
+    font-size: 30px;
+    color:rgb(124, 56, 0);
+}
+h4{
+    font-size: 30px;
+    color: rgb(212, 188, 236);
 }
 #content {
     margin-left: 100px;
@@ -50,9 +58,11 @@ p{
 .question {
     margin: 50px auto;
     width: 70%;
-    border: 5px dashed rgb(165, 226, 255);
+    border: 5px dotted rgb(124, 56, 0);
     border-radius: 15px;
     padding: 40px 70px;
+    margin-top: 20px;
+    margin-left: 10px;
 }
 
 .question h3 {
@@ -81,9 +91,9 @@ p{
 
 .answer-item a {
     text-decoration: None;
-    color: rgb(60, 57, 212);
-    border: 3px solid rgb(6, 46, 36);
-    background: rgb(163, 14, 21);
+    color: rgb(57, 4, 73); 
+    border: 3px solid rgb(57, 4, 73);
+    background: rgb(212, 188, 236);
     border-radius: 5px;
     width: 100%;
     display: flex;
@@ -94,7 +104,7 @@ p{
 }
 
 .answer-item a:hover {
-    background: rgb(0, 174, 255);
+    background: rgb(212, 188, 236));
     font-size: 2rem;
 }
 

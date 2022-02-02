@@ -24,9 +24,7 @@ def check_answer(q_id, a_id):
 def home():
     return render_template("index.html")
 
-@app.route("/lilia")
-def lilia():
-    return render_template("Lilia.html")
+
 
 
 @app.route("/question")
