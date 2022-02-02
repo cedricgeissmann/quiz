@@ -32,4 +32,20 @@
         "correct": 1
         
     }
+    ,{
+        "id": 1,
+        "title": "Dritti Frog:",
+        "question": "Wie viele Liter regnet es im Jahr auf einem Quadratmeter in der Schweiz? ",
+        "answers": [
+            {
+                "id": 1,
+                "text": "1200 Liter"
+            }, {
+                "id": 2,
+                "text": "500 Liter"
+            }
+        ],
+        "correct": 1
+        
+    }
 ]
