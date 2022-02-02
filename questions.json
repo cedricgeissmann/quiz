@@ -32,17 +32,8 @@
                 "text": "nur schwarz"
             }
         ],
-<<<<<<< HEAD
-        "correct": 1
-    }
-]
-
-[
-    {
-=======
         "correct": 2
     },{
->>>>>>> ec6567de6eab887a13499c56bc247a9c8f1b1eb6
         "id": 3,
         "title": "dritte Frage",
         "question": "wie gross ist etwa ein Dalmatiner?",
@@ -56,10 +47,7 @@
             }
         ],
         "correct": 2
-    }
-]
-
-[
+    },
     {
         "id": 4,
         "title": "vierte Frage",
