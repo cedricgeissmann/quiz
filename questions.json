@@ -15,7 +15,7 @@
      "correct": 1
     },
     {
-        "id":1,
+        "id": 2,
         "title": " hier eine Frage...",
         "question": "In welchem Stock ist der Getränke Automat?",
         "answers": [
@@ -28,5 +28,66 @@
             }
         ],
         "correct": 2
+    },
+    {
+        "id": 3,
+        "title": "Denk gut nach!",
+        "question": "Wie heisst unsere Bio Lehrerin aka die Rektorin?",
+        "answers": [
+            {
+                "id": 1,
+                "text": "Frau Jäggi"
+            }, {
+                "id": 2,
+                "text": "Frau Jeggi"
+            }
+        ],
+     "correct": 1
+
+    },
+    {
+        "id": 4,
+        "title": "Benutz dein Gehirn",
+        "question": "Wer unterrichtet uns in Physik?",
+        "answers": [
+            {
+                "id": 1,
+                "text": "Der Herr Schiegg"
+            }, {
+                "id": 2,
+                "text": "Der Herr Schieck"
+            }
+        ],
+     "correct": 1
+    },
+    {
+        "id": 5,
+        "title": "Denk zweimal bevor du klickst!",
+        "question": "Wann haben wir Freitags die Mittagspause?",
+        "answers": [
+            {
+                "id": 1,
+                "text": "12:15"
+            }, {
+                "id": 2,
+                "text": "11:25"
+            }
+        ],
+     "correct": 2
+    },
+    {
+        "id": 6,
+        "title": "Bist du wirklich Schlau?",
+        "question": "Wie heissen die drei Quiz-Ersteller",
+        "answers": [
+            {
+                "id": 1,
+                "text": "Büsra, Allesandra und Rahel"
+            }, {
+                "id": 2,
+                "text": "Büşra, Alessandra und Rahel"
+            }
+        ],
+     "correct": 1
     }
 ]
