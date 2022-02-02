@@ -81,12 +81,12 @@ h1 {
 }
 
 .answer-item a:hover {
-    background: darkgreen;
+    background: rgb(1, 158, 1);
     font-size: 2rem;
 }
 
 .wrong {
-    color: darkred;
+    color: rgb(231, 7, 7);
 }
 
 .answer-container {
