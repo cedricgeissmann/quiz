@@ -47,6 +47,11 @@ def olivia():
 def bio():
     return render_template("Bio.html")
 
+@app.route("/lilia")
+def lilia():
+    return render_template("Lilia.html")
+
+
 
 if __name__ == "__main__":
     app.run()
