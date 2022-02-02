@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "title": "First Question",
+        "title": "Ersti Question",
         "question": "Wer isch cooler?",
         "answers": [
             {
@@ -13,5 +13,54 @@
             }
         ],
         "correct": 1
+    },
+    {
+        "id": 2,
+        "title": "Andri Question",
+        "question": "Wie nennt Andri sini ersti Katz?",
+        "answers": [
+            {
+                "id": 1,
+                "text": "Schnuggi"
+            }, {
+                "id": 2,
+        "id": 2,
+        "text": "Stronziumcarbonat(Kurz Stronzium/Stronzi)"
+            }
+        ],
+        "correct": 2
+    },
+    {
+        "id": 2,
+        "title": "Euben Question",
+        "question": "Wie lustig sind eubens witz?",
+        "answers": [
+            {
+                "id": 1,
+                "text": "krass gelb"
+            }, {
+                "id": 2,
+        "id": 2,
+        "text": "krass rotorange"
+            }
+        ],
+        "correct": 1
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ]
