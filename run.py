@@ -47,9 +47,6 @@ def anja():
 def us():
     return render_template("Us.html")
 
-@app.route("/index")
-def us():
-    return render_template("index.html")
 
 
 if __name__ == "__main__":
