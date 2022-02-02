@@ -2,7 +2,7 @@
     {
         "id": 1,
         "title": "Question about Salome",
-        "question": "Was ist Salomes Lieblinglied?",
+        "question": "Was ist ihr Lieblinglied?",
         "answers": [
             {
                 "id": 1,
@@ -17,11 +17,11 @@
     {
         "id": 2,
         "title": "Question about Anji",
-        "question": "Was ist Anja Haustier?",
+        "question": "Was sind ihre Haustier?",
         "answers": [
             {
                 "id": 1,
-                "text": "a unicorn"
+                "text": "eine Ratte und eine Katze"
             }, {
                 "id": 2,
                 "text": " ein Pferd und ein Hund"
@@ -32,7 +32,7 @@
     {
         "id": 3,
         "title": "Question about Salom",
-        "question": "Was ist Salomes Haustier?",
+        "question": "Was sind ihre Haustier?",
         "answers": [
             {
                 "id": 1,
@@ -47,7 +47,7 @@
     {
         "id": 4,
         "title": "Question about Anji",
-        "question": "Was ist Anjas Lieblingsfarbe?",
+        "question": "Was ist ihre Lieblingsfarbe?",
         "answers": [
             {
                 "id": 1,
@@ -60,9 +60,9 @@
         "correct": 1
     },
     {
-        "id": 2,
+        "id": 5,
         "title": "Question about Salome",
-        "question": "Woher kommt Salome?",
+        "question": "Woher kommt sie?",
         "answers": [
             {
                 "id": 1,
@@ -75,9 +75,9 @@
         "correct": 2
     },
     {
-        "id": 2,
+        "id": 6,
         "title": "Question about Anji",
-        "question": "Woher kommt Anja?",
+        "question": "Woher kommt sie?",
         "answers": [
             {
                 "id": 1,
@@ -88,5 +88,50 @@
             }
         ],
         "correct": 1
+    }, 
+    {
+        "id": 7,
+        "title": "Question about Anji",
+        "question": "Wann hat sie Geburtstag?",
+        "answers": [
+            {
+                "id": 1,
+                "text": "22.07.2006"
+            }, {
+                "id": 2,
+                "text": "14.06.2006"
+            }
+        ],
+        "correct": 1
+    }, 
+    {
+        "id": 8,
+        "title": "Question about Salom",
+        "question": "Welcher gehört zu ihren Lieblingsfilmen?",
+        "answers": [
+            {
+                "id": 1,
+                "text": "Little women"
+            }, {
+                "id": 2,
+                "text": "Jumanji"
+            }
+        ],
+        "correct": 1
+    }, 
+    {
+        "id": 9,
+        "title": "Question about Anji",
+        "question": "Welcher gehört zu ihren Lieblingsfilmen?",
+        "answers": [
+            {
+                "id": 1,
+                "text": "Heidi"
+            }, {
+                "id": 2,
+                "text": "Oceans"
+            }
+        ],
+        "correct": 2
     }
 ]
