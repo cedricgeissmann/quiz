@@ -1,17 +1,17 @@
 [
     {
         "id": 1,
-        "title": "First Question",
-        "question": "Was gibt 2 mal 2?",
+        "title": "Ersti Frog:",
+        "question": "Wie viele Fragen gibt es weltweit?",
         "answers": [
             {
                 "id": 1,
-                "text": "4"
+                "text": "10000"
             }, {
                 "id": 2,
-                "text": "6"
+                "text": "7000"
             }
         ],
-        "correct": 1
+        "correct": 2
     }
 ]
