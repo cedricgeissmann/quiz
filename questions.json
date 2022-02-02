@@ -88,6 +88,22 @@
                 "text": "Büşra, Alessandra und Rahel"
             }
         ],
-     "correct": 1
-    }
+     "correct": 2
+    },
+    {
+        "id": 7,
+        "title": "Die Zeit läuft!",
+        "question": "Welche Farbe haben die Lavabos in den Zimmern?",
+        "answers": [
+            {
+                "id": 1,
+                "text": "Rot"
+            }, {
+                "id": 2,
+                "text": "Orange"
+            }
+        ],
+     "correct": 1 
+    },
+
 ]
