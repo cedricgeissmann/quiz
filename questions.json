@@ -2,14 +2,29 @@
     {
         "id": 1,
         "title": "First Question",
-        "question": "What is the correct answer?",
+        "question": "Was ist Salomes Lieblinglied?",
         "answers": [
             {
                 "id": 1,
-                "text": "This one"
+                "text": "yellow - colplay"
             }, {
                 "id": 2,
-                "text": "No this one!!"
+                "text": "shape of you - ed sheeran"
+            }
+        ],
+        "correct": 1
+    }
+    {
+        "id": 2,
+        "title": "second Question",
+        "question": "Was isch de Anja ihres Huustier?",
+        "answers": [
+            {
+                "id": 1,
+                "text": "a unicorn"
+            }, {
+                "id": 2,
+                "text": " ein Pferd und ein Hund"
             }
         ],
         "correct": 1
