@@ -19,17 +19,17 @@
     ,{
         "id": 1,
         "title": "Zweiti Frog:",
-        "question": "Wie viele Sprachen gibt es weltweit?",
+        "question": "Wie viele Hektare Wald gibt es auf der Welt? ",
         "answers": [
             {
                 "id": 1,
-                "text": "10000"
+                "text": "4 Milliarden"
             }, {
                 "id": 2,
-                "text": "7000"
+                "text": "10 Milliarden"
             }
         ],
-        "correct": 2
+        "correct": 1
         
     }
 ]
