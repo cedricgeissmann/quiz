@@ -43,5 +43,10 @@ def numa():
 def olivia():
     return render_template("Olivia.html")
 
+@app.route("/bio")
+def bio():
+    return render_template("Bio.html")
+
+
 if __name__ == "__main__":
     app.run()
