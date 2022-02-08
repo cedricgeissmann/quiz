@@ -79,20 +79,20 @@
     ,{
         "id": 5,
         "title": "Rate mal:",
-        "question": "... ",
+        "question": "Wie viele Liter Bier werden in Deutschland pro Kopf jährlich getrunken? ",
         "answers": [
             {
                 "id": 1,
-                "text": "..."
+                "text": "200 Liter"
             }, {
                 "id": 2,
-                "text": "..."
+                "text": "500 Liter"
             }, {
                 "id": 3,
-                "text": "..."
+                "text": "100 Liter"
             }
         ],
-        "correct": 1
+        "correct": 3
         
     }
 
