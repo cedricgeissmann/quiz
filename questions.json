@@ -77,7 +77,7 @@
     },
     {
         "id": 6,
-        "title": "Bist du wirklich Schlau?",
+        "title": "Bist du wirklich schlau?",
         "question": "Wie heissen die drei Quiz-Ersteller",
         "answers": [
             {
@@ -105,5 +105,33 @@
         ],
      "correct": 1 
     },
+    {
+        "id": 8,
+        "title": "Entscheide Weise!",
+        "question": "Wo ist die Fachhochschule aka FHNW?",
+        "answers": [
+            {
+                "id": 1,
+                "text": "Im Osten"
+            }, {
+                "id": 2,
+                "text": "Im Norden"
+            }
+            
+        ],
+     "correct": 2
+    }, 
+    {
+        "id": 9,
+        "title": "Rosen sind Rot, Nutella ist lecker, klicke richtig du Feinschmecker! ",
+        "question": "Nutella mit Butter oder ohne?",
+        "answers": [
+            {
+                "id": 1,
+                "text": "Im Osten"
+            }, {
+                "id": 2,
+                "text": "Im Norden"
+    }
 
 ]
