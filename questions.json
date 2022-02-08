@@ -112,6 +112,24 @@
         ],
         "correct": 1
         
+    },{
+        "id": 7,
+        "title": "Rate mal:",
+        "question": "Wie viele Einkerbungen hat ein Golfball?",
+        "answers": [
+            {
+                "id": 1,
+                "text": "113"
+            }, {
+                "id": 2,
+                "text": "336"
+            }, {
+                "id": 3,
+                "text": "227"
+            }
+        ],
+        "correct": 2
+        
     }
 
 
