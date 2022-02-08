@@ -16,15 +16,18 @@
     }, 
     {
         "id": 2,
-        "title": "hallo",
+        "title": "Wer fühlt sich wie de main Charakter vo gntm",
         "question": "What is the correct answer?",
         "answers": [
             {
                 "id": 1,
-                "text": "This one"
+                "text": "Sophie"
             }, {
                 "id": 2,
-                "text": "No this one!!"
+                "text": "Lenara"
+            }
+            {"id": 3,
+                "text": "Heidi"
             }
         ],
         "correct": 1
