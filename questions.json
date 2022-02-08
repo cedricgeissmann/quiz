@@ -94,6 +94,25 @@
         ],
         "correct": 3
         
+    },{
+        "id": 6,
+        "title": "Rate mal:",
+        "question": "Wie viele Buchstaben hat das hawaiianische Alphabet? ",
+        "answers": [
+            {
+                "id": 1,
+                "text": "12"
+            }, {
+                "id": 2,
+                "text": "20"
+            }, {
+                "id": 3,
+                "text": "16"
+            }
+        ],
+        "correct": 1
+        
     }
+
 
 ]
