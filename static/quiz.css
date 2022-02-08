@@ -4,20 +4,23 @@ body {
 }
 .navbar {
     position: absolute;
-<<<<<<< HEAD
+
+
     width: 150px;
     width: 180px;
     background: rgb(100, 100, 245);
-=======
+
     width: 200px;
+
+    width: 180px;
+
     background: rgb(100, 100, 245)
->>>>>>> 913e2caf3d7d5c27fcab723c558211046c0680c0
+
     height: 100%;
     margin: 0px;
 }
 .nav-item {
     list-style: none;
-    
     background-color: rgb(100, 100, 245);
    
 }
