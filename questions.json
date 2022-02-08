@@ -1,15 +1,19 @@
 [
     {
         "id": 1,
-        "title": "tsvhüssn",
+        "title": "Was het Viola mitgnoh",
         "question": "What is the correct answer?",
         "answers": [
             {
                 "id": 1,
-                "text": "This one"
+                "text": "Stricksache"
             }, {
                 "id": 2,
-                "text": "No this one!!"
+                "text": "Sticksache"
+            },
+            {
+                "id": 3,
+                "text": "Nähsache"
             }
         ],
         "correct": 1
@@ -25,7 +29,7 @@
             }, {
                 "id": 2,
                 "text": "Lenara"
-            }
+            }, 
             {"id": 3,
                 "text": "Heidi"
             }
