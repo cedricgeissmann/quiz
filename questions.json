@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "title": "Erste Frage...",
+        "title": "Weisst du das auch...?",
         "question": "Welche Farbe hat Frau Bachers Scrunchie?",
         "answers": [
             {
@@ -13,8 +13,126 @@
 
             }
         ],
-        "correct": 1
+     "correct": 1
+    },
+    {
+        "id": 2,
+        "title": " hier eine Frage...",
+        "question": "In welchem Stock ist der Getränke Automat?",
+        "answers": [
+            {
+                "id": 1,
+                "text": "im Ersten"
+            }, {
+                "id": 2,
+                "text": "im Dritten"
+            }
+        ],
+        "correct": 2
+    },
+    {
+        "id": 3,
+        "title": "Denk gut nach!",
+        "question": "Wie heisst unsere Bio Lehrerin aka die Rektorin?",
+        "answers": [
+            {
+                "id": 1,
+                "text": "Frau Jäggi"
+            }, {
+                "id": 2,
+                "text": "Frau Jeggi"
+            }
+        ],
+     "correct": 1
 
+    },
+    {
+        "id": 4,
+        "title": "Benutz dein Gehirn",
+        "question": "Wer unterrichtet uns in Physik?",
+        "answers": [
+            {
+                "id": 1,
+                "text": "Der Herr Schiegg"
+            }, {
+                "id": 2,
+                "text": "Der Herr Schieck"
+            }
+        ],
+     "correct": 1
+    },
+    {
+        "id": 5,
+        "title": "Denk zweimal bevor du klickst!",
+        "question": "Wann haben wir Freitags die Mittagspause?",
+        "answers": [
+            {
+                "id": 1,
+                "text": "12:15"
+            }, {
+                "id": 2,
+                "text": "11:25"
+            }
+        ],
+     "correct": 2
+    },
+    {
+        "id": 6,
+        "title": "Bist du wirklich schlau?",
+        "question": "Wie heissen die drei Quiz-Ersteller",
+        "answers": [
+            {
+                "id": 1,
+                "text": "Büsra, Allesandra und Rahel"
+            }, {
+                "id": 2,
+                "text": "Büşra, Alessandra und Rahel"
+            }
+        ],
+     "correct": 2
+    },
+    {
+        "id": 7,
+        "title": "Die Zeit läuft!",
+        "question": "Welche Farbe haben die Lavabos in den Zimmern?",
+        "answers": [
+            {
+                "id": 1,
+                "text": "Rot"
+            }, {
+                "id": 2,
+                "text": "Orange"
+            }
+        ],
+     "correct": 1 
+    },
+    {
+        "id": 8,
+        "title": "Entscheide Weise!",
+        "question": "Wo ist die Fachhochschule aka FHNW?",
+        "answers": [
+            {
+                "id": 1,
+                "text": "Im Osten"
+            }, {
+                "id": 2,
+                "text": "Im Norden"
+            }
+            
+        ],
+     "correct": 2
+    }, 
+    {
+        "id": 9,
+        "title": "Rosen sind Rot, Nutella ist lecker, klicke richtig du Feinschmecker! ",
+        "question": "Nutella mit Butter oder ohne?",
+        "answers": [
+            {
+                "id": 1,
+                "text": "Im Osten"
+            }, {
+                "id": 2,
+                "text": "Im Norden"
     }
 
 ]
