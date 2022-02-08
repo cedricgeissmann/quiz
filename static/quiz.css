@@ -5,7 +5,7 @@ body {
 .navbar {
     position: fixed;
     width: 180px;
-    background: forestgreen;
+    background: rgb(151, 166, 233);
     height: 100%;
     margin: 0px;
 }
@@ -24,7 +24,7 @@ body {
 }
 h1 {
     width: 100%;
-    background: forestgreen;
+    background: rgb(108, 97, 206);
     color: white;
     margin: 0px;
     padding: 15px 20px;
@@ -37,16 +37,25 @@ h1 {
 .question {
     margin: 50px auto;
     width: 70%;
-    border: 5px dashed forestgreen;
+    border: 5px dashed rgb(100, 0, 158);
     border-radius: 15px;
     padding: 40px 70px;
 }
 
+h2 {
+    color: rgb(100, 0, 158);
+}
+
+p {
+    color: rgb(100, 0, 158);
+}
 .question h3 {
+    color: rgb(100, 0, 158);
     font-size: 3rem;
 }
 
 .question p {
+    color: rgb(100, 0, 158); 
     margin: 30px 50px;
 }
 
@@ -69,8 +78,8 @@ h1 {
 .answer-item a {
     text-decoration: None;
     color: white;
-    border: 3px solid forestgreen;
-    background: forestgreen;
+    border: 3px solid rgb(100, 0, 158);
+    background: rgb(100, 0, 158);
     border-radius: 5px;
     width: 100%;
     display: flex;
@@ -81,7 +90,7 @@ h1 {
 }
 
 .answer-item a:hover {
-    background: darkgreen;
+    background: rgb(238, 137, 233);
     font-size: 2rem;
 }
 
