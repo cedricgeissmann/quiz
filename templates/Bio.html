@@ -1,8 +1,10 @@
-<head>
-    <body>
-        <h1>
-            Creators
-        </h1>
+{% extends "base.html" %}
+{% block content %}
+<h2>
+    Creators
+       
+    
+</h2>
 
         <p>
             <li>
@@ -19,5 +21,5 @@
                 <a href="numa">Numa</a>
             </li>
          </p>
-    </body>
-</head>
+         <img class="Bild" src='{{ url_for("static", filename="Bild2.jpg") }}'    width="200px" length="500px">
+     {% endblock %}
