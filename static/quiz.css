@@ -29,6 +29,13 @@ h1 {
     margin: 0px;
     padding: 15px 20px;
 }
+h2 {
+    width: 100%;
+    background-color: aquamarine;
+    color:darkmagenta;
+    font-size:xx-large;
+    font-family: Georgia ;
+}
 #content {
     margin-left: 220px;
     padding: 30px 20px;
