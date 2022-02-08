@@ -3,19 +3,21 @@ body {
     margin: 0px;
 }
 .navbar {
-    position: fixed;
+    position: absolute;
     width: 180px;
     background: rgb(100, 100, 245)
     height: 100%;
     margin: 0px;
 }
 .nav-item {
-    list-style: None;
-    margin: 20px 10px;
+    list-style: none;
+    
+    background-color: rgb(100, 100, 245);
+   
 }
 .nav-link {
     text-decoration: None;
-    color: rgb(100, 100, 245);
+    color: rgb(255, 255, 255);
     font-size: 1.5rem;
     transition: all 400ms;
 }
