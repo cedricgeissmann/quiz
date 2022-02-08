@@ -1,32 +1,57 @@
 [
     {
         "id": 1,
-        "title": "tsvhüssn",
+        "title": "Was het Viola mitgnoh",
         "question": "What is the correct answer?",
         "answers": [
             {
                 "id": 1,
-                "text": "This one"
+                "text": "Stricksache"
             }, {
                 "id": 2,
-                "text": "No this one!!"
+                "text": "Sticksache"
+            },
+            {
+                "id": 3,
+                "text": "Nähsache"
             }
         ],
-        "correct": 1
+        "correct": 2
     }, 
     {
         "id": 2,
-        "title": "hallo",
+        "title": "Wer fühlt sich wie de main Charakter vo gntm",
         "question": "What is the correct answer?",
         "answers": [
             {
                 "id": 1,
-                "text": "This one"
+                "text": "Sophie"
             }, {
                 "id": 2,
-                "text": "No this one!!"
+                "text": "Lenara"
+            }, 
+            {"id": 3,
+                "text": "Heidi"
             }
         ],
         "correct": 1
+    },
+    {
+        "id": 3,
+        "title": "Was het Viola gseit, wo sie witer koh isch",
+        "question": "What is the correct answer?",
+        "answers": [
+            {
+                "id": 1,
+                "text": "Ist ja nicht anders zu erwarte gewesen"
+            }, {
+                "id": 2,
+                "text": "Ich freu mich übrigens auch"
+            }, 
+            {"id": 3,
+                "text": "Heidi ich küsse deine Füsse"
+            }
+        ],
+        "correct": 2
     }
 ]
