@@ -10,6 +10,9 @@
             }, {
                 "id": 2,
                 "text": "7000"
+            }, {
+                "id": 3,
+                "text": "8500"
             }
         ],
         "correct": 2
@@ -27,6 +30,9 @@
             }, {
                 "id": 2,
                 "text": "4 Milliarden"
+            }, {
+                "id": 3,
+                "text": "3 Milliarden"
             }
         ],
         "correct": 1
@@ -39,13 +45,16 @@
         "answers": [
             {
                 "id": 1,
-                "text": "1200 Liter"
+                "text": "3500 Liter"
             }, {
                 "id": 2,
                 "text": "500 Liter"
+            }, {
+                "id": 3,
+                "text": "1200 Liter"
             }
         ],
-        "correct": 1
+        "correct": 3
         
     }
     ,{
@@ -59,9 +68,88 @@
             }, {
                 "id": 2,
                 "text": "9180 Meter"
+            }, {
+                "id": 3,
+                "text": "8900 Meter"
             }
         ],
         "correct": 1
         
     }
+    ,{
+        "id": 5,
+        "title": "Rate mal:",
+        "question": "Wie viele Liter Bier werden in Deutschland pro Kopf jährlich getrunken? ",
+        "answers": [
+            {
+                "id": 1,
+                "text": "200 Liter"
+            }, {
+                "id": 2,
+                "text": "500 Liter"
+            }, {
+                "id": 3,
+                "text": "100 Liter"
+            }
+        ],
+        "correct": 3
+        
+    },{
+        "id": 6,
+        "title": "Rate mal:",
+        "question": "Wie viele Buchstaben hat das hawaiianische Alphabet? ",
+        "answers": [
+            {
+                "id": 1,
+                "text": "12"
+            }, {
+                "id": 2,
+                "text": "20"
+            }, {
+                "id": 3,
+                "text": "16"
+            }
+        ],
+        "correct": 1
+        
+    },{
+        "id": 7,
+        "title": "Rate mal:",
+        "question": "Wie viele Einkerbungen hat ein Golfball?",
+        "answers": [
+            {
+                "id": 1,
+                "text": "113"
+            }, {
+                "id": 2,
+                "text": "336"
+            }, {
+                "id": 3,
+                "text": "227"
+            }
+        ],
+        "correct": 2
+        
+    },{
+        "id": 8,
+        "title": "Rate mal:",
+        "question": "Wie viele Zähne hat ein Eisbär?",
+        "answers": [
+            {
+                "id": 1,
+                "text": "25"
+            }, {
+                "id": 2,
+                "text": "42"
+            }, {
+                "id": 3,
+                "text": "70"
+            }
+        ],
+        "correct": 2
+        
+    }
+
+
+
 ]
