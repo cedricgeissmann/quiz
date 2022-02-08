@@ -35,5 +35,23 @@
             }
         ],
         "correct": 1
+    },
+    {
+        "id": 3,
+        "title": "Was het Viola gseit, wo sie witer koh isch",
+        "question": "What is the correct answer?",
+        "answers": [
+            {
+                "id": 1,
+                "text": "Ist ja nicht anders zu erwarte gewesen"
+            }, {
+                "id": 2,
+                "text": "Ich freu mich übrigens auch"
+            }, 
+            {"id": 3,
+                "text": "Heidi ich küsse deine Füsse"
+            }
+        ],
+        "correct": 1
     }
 ]
