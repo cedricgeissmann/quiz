@@ -10,6 +10,9 @@
             }, {
                 "id": 2,
                 "text": "7000"
+            }, {
+                "id": 3,
+                "text": "8500"
             }
         ],
         "correct": 2
@@ -27,6 +30,9 @@
             }, {
                 "id": 2,
                 "text": "4 Milliarden"
+            }, {
+                "id": 3,
+                "text": "3 Milliarden"
             }
         ],
         "correct": 1
@@ -39,13 +45,16 @@
         "answers": [
             {
                 "id": 1,
-                "text": "1200 Liter"
+                "text": "3500 Liter"
             }, {
                 "id": 2,
                 "text": "500 Liter"
+            }, {
+                "id": 3,
+                "text": "1200 Liter"
             }
         ],
-        "correct": 1
+        "correct": 3
         
     }
     ,{
@@ -59,6 +68,28 @@
             }, {
                 "id": 2,
                 "text": "9180 Meter"
+            }, {
+                "id": 3,
+                "text": "8900 Meter"
+            }
+        ],
+        "correct": 1
+        
+    }
+    ,{
+        "id": 5,
+        "title": "Rate mal:",
+        "question": "... ",
+        "answers": [
+            {
+                "id": 1,
+                "text": "..."
+            }, {
+                "id": 2,
+                "text": "..."
+            }, {
+                "id": 3,
+                "text": "..."
             }
         ],
         "correct": 1
