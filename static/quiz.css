@@ -15,7 +15,7 @@ body {
 }
 .nav-link {
     text-decoration: None;
-    color: white;
+    color: blueviolet;
     font-size: 1.4rem;
     transition: all 400ms;
 }
