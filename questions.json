@@ -1,15 +1,15 @@
 [
     {
         "id": 1,
-        "title": "First Question",
-        "question": "What is the correct answer?",
+        "title": "Weiter zu Chicken Grill",
+        "question": "Klickt eins an um zum Spiel zu gelangen",
         "answers": [
             {
                 "id": 1,
-                "text": "This one"
+                "text": "Spiel"
             }, {
                 "id": 2,
-                "text": "No this one!!"
+                "text": "Spiel"
             }
         ],
         "correct": 1
