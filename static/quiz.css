@@ -5,7 +5,7 @@ body {
 .navbar {
     position: fixed;
     width: 180px;
-    background: forestgreen;
+    background: rgb(198, 200, 198);
     height: 100%;
     margin: 0px;
 }
@@ -15,7 +15,7 @@ body {
 }
 .nav-link {
     text-decoration: None;
-    color: white;
+    color: black
     font-size: 1.4rem;
     transition: all 400ms;
 }
@@ -24,8 +24,8 @@ body {
 }
 h1 {
     width: 100%;
-    background: forestgreen;
-    color: white;
+    background: rgb(198, 200, 198);
+    color: black
     margin: 0px;
     padding: 15px 20px;
 }
@@ -37,7 +37,7 @@ h1 {
 .question {
     margin: 50px auto;
     width: 70%;
-    border: 5px dashed forestgreen;
+    border: 5px dashed rgb(198, 200, 198);
     border-radius: 15px;
     padding: 40px 70px;
 }
@@ -68,9 +68,9 @@ h1 {
 
 .answer-item a {
     text-decoration: None;
-    color: white;
-    border: 3px solid forestgreen;
-    background: forestgreen;
+    color: black
+    border: 3px solid rgb(198, 200, 198);
+    background: rgb(198, 200, 198);
     border-radius: 5px;
     width: 100%;
     display: flex;
@@ -81,12 +81,12 @@ h1 {
 }
 
 .answer-item a:hover {
-    background: darkgreen;
+    background: rgb(198, 200, 198);
     font-size: 2rem;
 }
 
 .wrong {
-    color: darkred;
+    color: rgb(198, 200, 198), 198, 200);
 }
 
 .answer-container {
