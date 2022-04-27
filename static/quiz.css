@@ -15,9 +15,10 @@ body {
 }
 .nav-link {
     text-decoration: None;
-    color: rgb(125, 126, 125);
-    font-size: rgb(125, 126, 125);
+    color: rgb(249, 120, 15);
+    font-size: 20px;
     transition: all 400ms;
+
 }
 .nav-link:hover {
     font-size: 1.6rem;
