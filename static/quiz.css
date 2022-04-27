@@ -1,12 +1,12 @@
 body {
     padding: 0px;
     margin: 0px;
-    background-color: antiquewhite;
+    background-color: rgb(238, 212, 178);
 }
 .navbar {
     position: fixed;
     width: 180px;
-    background: rgba(34, 62, 139, 0.822);
+    background: rgba(7, 58, 23, 0.822);
     height: 100%;
     margin: 0px;
 }
@@ -19,85 +19,43 @@ body {
     color: white;
     font-size: 1.4rem;
     transition: all 400ms;
+    font-family:monospace;
 }
 .nav-link:hover {
     font-size: 1.6rem;
+    
 }
 h1 {
     width: 100%;
-    background: rgb(34, 71, 139);
+    background: rgb(60, 117, 36);
     color: white;
     margin: 0px;
     padding: 15px 20px;
+    font-family:monospace;
 }
+p {font-size: larger;}
 #content {
     margin-left: 220px;
     padding: 30px 20px;
+    font-family: monospace;
+    
+    
 }
 
-.question {
-    margin: 50px auto;
-    width: 70%;
-    border: 5px dashed rgb(98, 125, 168);
-    border-radius: 15px;
-    padding: 40px 70px;
+
 }
 
-.question h3 {
-    font-size: 3rem;
+
 }
 
-.question p {
-    margin: 30px 50px;
+
 }
 
-.answer-list {
-    margin: 0px;
-    padding: 0px;
-    width: 100%;
-    display: flex;
-    flex-direction: row;
+
+
+
+
 }
 
-.answer-item {
-    list-style: None;
-    margin: 0px auto;
-    padding: 0px;
-    width: 300px;
-    text-align: center;
-}
 
-.answer-item a {
-    text-decoration: None;
-    color: white;
-    border: 3px solid rgb(34, 71, 139);
-    background: rgb(34, 80, 139);
-    border-radius: 5px;
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 60px;
-    transition: all 600ms;
-}
 
-.answer-item a:hover {
-    background: rgb(0, 90, 0);
-    font-size: 2rem;
-}
-
-.wrong {
-    color: rgb(231, 7, 7);
-}
-
-.answer-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 30vh;
-    width: 100%;
-}
-
-#answer-text {
-    font-size: 4rem;
-}
