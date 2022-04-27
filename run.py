@@ -12,7 +12,7 @@ def home():
 
 @app.route("/spielanleitung")
 def spielanleitung():
-    return render_template("spielanleitung.html")
+    return render_template("Spielanleitung.html")
 
 
 @app.route("/irem")
