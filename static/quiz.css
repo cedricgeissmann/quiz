@@ -15,8 +15,8 @@ body {
 }
 .nav-link {
     text-decoration: None;
-    color: rgb(125, 126, 125)
-    font-size: 1.4rem;
+    color: rgb(125, 126, 125);
+    font-size: rgb(125, 126, 125);
     transition: all 400ms;
 }
 .nav-link:hover {
@@ -25,7 +25,7 @@ body {
 h1 {
     width: 100%;
     background: rgb(249, 120, 15);
-    color: rgb(125, 126, 125)
+    color: rgb(125, 126, 125);
     margin: 0px;
     padding: 15px 20px;
 }
@@ -86,7 +86,7 @@ h1 {
 }
 
 .wrong {
-    color: rgb(125, 126, 125), 125, 126) 
+    color: rgb(125, 126, 125)
 }
 
 .answer-container {
