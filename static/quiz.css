@@ -1,12 +1,12 @@
 body {
     padding: 0px;
     margin: 0px;
-    background-color: rgb(247, 235, 218);
+    background-color: rgb(202, 254, 179);
 }
 .navbar {
     position: fixed;
     width: 180px;
-    background: rgb(212, 188, 236);
+    background: rgb(161, 239, 150);
     height: 100%;
     margin: 0px;
 }
@@ -25,21 +25,21 @@ body {
 }
 h1 {
     width: 200%;
-    background: rgb(236, 202, 139);
-    color: rgb(124, 56, 0);
+    background: rgb(139, 237, 126);
+    color: rgb(1, 118, 3);
     margin-bottom: 10px;
     padding: 30px 20px;
 }
 
 h2 {
     font-size: 50px;
-    color: rgb(124, 56, 0);
+    color: rgb(1, 118, 3);
     margin-bottom: 10px;
   
 }
 p{
     font-size: 30px;
-    color: blueviolet;
+    color: rgb(57, 4, 73);
 
 }
 h3{

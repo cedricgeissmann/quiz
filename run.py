@@ -34,17 +34,17 @@ def answer(question_id, answer_id):
     correct = check_answer(question_id, answer_id)
     return render_template("answer.html", correct=correct)
 
-@app.route("/numa")
+@app.route("/irem")
 def numa():
-    return render_template("Numa.html")
+    return render_template("Irem.html")
 
 @app.route("/olivia")
 def olivia():
     return render_template("Olivia.html")
 
-@app.route("/bio")
-def bio():
-    return render_template("Bio.html")
+@app.route("/creators")
+def creators():
+    return render_template("Creators.html")
 
 @app.route("/lilia")
 def lilia():
