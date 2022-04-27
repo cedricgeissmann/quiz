@@ -68,7 +68,7 @@ h1 {
 
 .answer-item a {
     text-decoration: None;
-    color: rgb(125, 126, 125)
+    color: rgb(125, 126, 125);
     border: 3px solid rgb(198, 200, 198);
     background: rgb(198, 200, 198);
     border-radius: 5px;
@@ -86,7 +86,7 @@ h1 {
 }
 
 .wrong {
-    color: rgb(125, 126, 125), 125, 126);
+    color: rgb(125, 126, 125), 125, 126) 
 }
 
 .answer-container {
