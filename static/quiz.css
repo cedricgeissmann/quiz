@@ -1,12 +1,12 @@
 body {
     padding: 0px;
     margin: 0px;
-    background-color: rgb(238, 212, 178);
+    background-color: rgba(13, 47, 23, 0.281);
 }
 .navbar {
     position: fixed;
     width: 180px;
-    background: rgba(7, 58, 23, 0.822);
+    background: rgb(13, 47, 23);
     height: 100%;
     margin: 0px;
 }
@@ -27,7 +27,7 @@ body {
 }
 h1 {
     width: 100%;
-    background: rgb(60, 117, 36);
+    background: rgb(64, 110, 44);
     color: white;
     margin: 0px;
     padding: 15px 20px;
