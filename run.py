@@ -27,8 +27,13 @@ def salome():
 def anja():
     return render_template("Anja.html")
 
+@app.route("/worumgehtes")
+def worum():
+    return render_template("worumgehtes.html")
 
-
+@app.route("/wozufinden")
+def wo():
+    return render_template("wozufinden.html")
 
 if __name__ == "__main__":
     app.run()
