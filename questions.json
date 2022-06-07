@@ -1,17 +1,7 @@
 [
     {
         "id": 1,
-        "title": "First Question",
-        "question": "What is the correct answer?",
-        "answers": [
-            {
-                "id": 1,
-                "text": "This one"
-            }, {
-                "id": 2,
-                "text": "No this one!!"
-            }
-        ],
-        "correct": 1
+        "image": "/downloads/image_01.png",
+        "answer": "47.534013, 7.641462"
     }
 ]

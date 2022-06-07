@@ -1,11 +1,7 @@
 {% extends "base.html" %}
 {% block content %}
     <div class="answer-container">
-        {% if correct %}
-        <p id="answer-text">Die Antwort ist richtig!</p>
-        {% else %}
-        <p id="answer-text" class="wrong">Die Antwort ist falsch!</p>
-        {% endif %}
+        Sie liegen {{ dist }} daneben.
     </div>
     <div id="next-question" class="answer-container">
         <a href="/question">Weiter zur nächsten Frage</a>        

@@ -1,14 +1,15 @@
 {% extends "base.html" %}
 {% block content %}
     <div class="question">
-        <h3>{{question.title}}</h3>
-        <p>{{question.question}}</p>
-        <ul class="answer-list">
-            {% for answer in question.answers %}
-                <li class="answer-item">
-                    <a href="/answer/{{question.id}}/{{answer.id}}">{{answer.text}}</a>
-                </li>
-            {% endfor %}
-        </ul>
+        <h3>Wo befindet sich dieser Ort?</h3>
+        <div class="image-container">
+        <img src="{{ url_for('static', filename=question.image) }}" alt="Streetview Bild"> 
+        </div>
+    <form class="answer-block" action="/send-loc">
+        <input type="hidden" name="question_id" value="{{ question.id }}">
+        <input type="text" name="loc" value="">
+        <button type="submit">Senden</button>
+        
+    </form>
     </div>
 {% endblock %}
