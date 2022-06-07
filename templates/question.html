@@ -7,7 +7,9 @@
         </div>
     <form class="answer-block" action="/send-loc">
         <input type="hidden" name="question_id" value="{{ question.id }}">
-        <input type="text" name="loc" value="">
+        
+        <label for="loc">Standort in Längen- und Breitengrad: </label>
+        <input type="text" name="loc" id="loc" value="">
         <button type="submit">Senden</button>
         
     </form>
